@@ -5,7 +5,7 @@ package_name = 'gaz'
 setup(
     name='gaz',
     version='0.0.0',
-    packages=['lib'],
+    packages=['gaz'],
     py_modules=[],
     install_requires=['setuptools'],
     author='András Polgár',
